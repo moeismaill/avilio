@@ -10,7 +10,9 @@ const Footer = () => {
                 <li><a href="/">Solutions</a></li>
                 <li><a href="/">Community</a></li>
                 <li><a href="/">Pricing</a></li>
-            </ul>            
+                <li><a href="https://www.uistore.design/items/alivio-landing-page-for-figma/">Figma Design</a></li>
+                <li><a href="https://www.ismailmri.com">Development</a></li>
+            </ul>         
         </div>
     )
 }
