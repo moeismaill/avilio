@@ -1,0 +1,36 @@
+.hero {
+    width: 100vw;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/hero.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    box-sizing: border-box;
+}
+
+.hero h1 {
+    color: #01996D;
+    font-weight: bold;
+}
+
+.content {
+    text-align: left;
+    transform: translate(10%, 80%);
+    overflow: hidden;
+}
+
+.content button {
+    border: none;
+    background-color: #01996D;
+    color: #fff;
+    padding: 12px 32px;
+    margin: 0 1rem 1rem 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content button:hover {
+    background-color: #245852;
+}
